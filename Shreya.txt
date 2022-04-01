@@ -1,2 +1,0 @@
-19991031,birthday,HIGH
-20211129,blah;;;',MEDIUM
