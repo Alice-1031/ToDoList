@@ -1,0 +1,6 @@
+9001212,Escape SpaceTime and achieve Nirvana,HIGH
+9001212,Cats dominate the universe and purify it,MEDIUM
+16000429,Time travel to 16th century and stop world war,LOW
+23001212,Purge this world of evil,MEDIUM
+25001212,Create a parallel universe,HIGH
+Populate the parallel universe with cute but highly intelligent cats,HIGH
